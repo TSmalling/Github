@@ -1,6 +1,15 @@
-.one{
-    text-align: center;
-}
-body{
+body {
     background-color: blue;
+}
+
+.one {
+    border: solid black 10px;
+}
+
+.two {
+    border: solid black 10px ;
+}
+
+.three {
+    border: solid black 10px;
 }
